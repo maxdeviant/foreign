@@ -5665,5 +5665,3 @@ wordid | level | pos |     word      |                                          
   58926      D       7       호주              Australia
   58927      D       7       남대문시장       Shopping center in seoul
   58928      D       7       남산              Mountain in south central seoul
-                     0       cute            cute
-(5666 rows)
