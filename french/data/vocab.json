@@ -1,0 +1,4002 @@
+[
+    {
+        "word": "je",
+        "definition": "I"
+    },
+    {
+        "word": "de",
+        "definition": "of"
+    },
+    {
+        "word": "est",
+        "definition": "is"
+    },
+    {
+        "word": "pas",
+        "definition": "not"
+    },
+    {
+        "word": "le",
+        "definition": "the"
+    },
+    {
+        "word": "vous",
+        "definition": "you"
+    },
+    {
+        "word": "la",
+        "definition": "the"
+    },
+    {
+        "word": "tu",
+        "definition": "you"
+    },
+    {
+        "word": "que",
+        "definition": "that"
+    },
+    {
+        "word": "un",
+        "definition": "a"
+    },
+    {
+        "word": "il",
+        "definition": "it"
+    },
+    {
+        "word": "et",
+        "definition": "and"
+    },
+    {
+        "word": "à",
+        "definition": "with"
+    },
+    {
+        "word": "a",
+        "definition": "has"
+    },
+    {
+        "word": "ne",
+        "definition": "only"
+    },
+    {
+        "word": "les",
+        "definition": "the"
+    },
+    {
+        "word": "ce",
+        "definition": "this"
+    },
+    {
+        "word": "en",
+        "definition": "in"
+    },
+    {
+        "word": "on",
+        "definition": "on"
+    },
+    {
+        "word": "ça",
+        "definition": "that"
+    },
+    {
+        "word": "une",
+        "definition": "one"
+    },
+    {
+        "word": "ai",
+        "definition": "have"
+    },
+    {
+        "word": "pour",
+        "definition": "of"
+    },
+    {
+        "word": "des",
+        "definition": "of"
+    },
+    {
+        "word": "moi",
+        "definition": "me"
+    },
+    {
+        "word": "qui",
+        "definition": "which"
+    },
+    {
+        "word": "nous",
+        "definition": "we"
+    },
+    {
+        "word": "y",
+        "definition": "there"
+    },
+    {
+        "word": "mais",
+        "definition": "but"
+    },
+    {
+        "word": "me",
+        "definition": "me"
+    },
+    {
+        "word": "dans",
+        "definition": "in"
+    },
+    {
+        "word": "du",
+        "definition": "the"
+    },
+    {
+        "word": "bien",
+        "definition": "well"
+    },
+    {
+        "word": "elle",
+        "definition": "she"
+    },
+    {
+        "word": "si",
+        "definition": "if"
+    },
+    {
+        "word": "tout",
+        "definition": "while"
+    },
+    {
+        "word": "plus",
+        "definition": "more"
+    },
+    {
+        "word": "non",
+        "definition": "not"
+    },
+    {
+        "word": "mon",
+        "definition": "my"
+    },
+    {
+        "word": "suis",
+        "definition": "am"
+    },
+    {
+        "word": "te",
+        "definition": "you"
+    },
+    {
+        "word": "au",
+        "definition": "to"
+    },
+    {
+        "word": "avec",
+        "definition": "with"
+    },
+    {
+        "word": "va",
+        "definition": "will"
+    },
+    {
+        "word": "oui",
+        "definition": "yes"
+    },
+    {
+        "word": "toi",
+        "definition": "you"
+    },
+    {
+        "word": "fait",
+        "definition": "fact"
+    },
+    {
+        "word": "ils",
+        "definition": "they"
+    },
+    {
+        "word": "as",
+        "definition": "have"
+    },
+    {
+        "word": "être",
+        "definition": "be"
+    },
+    {
+        "word": "faire",
+        "definition": "to"
+    },
+    {
+        "word": "se",
+        "definition": "to"
+    },
+    {
+        "word": "comme",
+        "definition": "such as"
+    },
+    {
+        "word": "était",
+        "definition": "was"
+    },
+    {
+        "word": "sur",
+        "definition": "about"
+    },
+    {
+        "word": "quoi",
+        "definition": "what"
+    },
+    {
+        "word": "ici",
+        "definition": "here"
+    },
+    {
+        "word": "sais",
+        "definition": "know"
+    },
+    {
+        "word": "lui",
+        "definition": "him"
+    },
+    {
+        "word": "veux",
+        "definition": "want"
+    },
+    {
+        "word": "ma",
+        "definition": "my"
+    },
+    {
+        "word": "là",
+        "definition": "there"
+    },
+    {
+        "word": "rien",
+        "definition": "nothing"
+    },
+    {
+        "word": "dit",
+        "definition": "said"
+    },
+    {
+        "word": "es",
+        "definition": "es"
+    },
+    {
+        "word": "où",
+        "definition": "where"
+    },
+    {
+        "word": "votre",
+        "definition": "your"
+    },
+    {
+        "word": "pourquoi",
+        "definition": "why"
+    },
+    {
+        "word": "sont",
+        "definition": "are"
+    },
+    {
+        "word": "cette",
+        "definition": "this"
+    },
+    {
+        "word": "quand",
+        "definition": "when"
+    },
+    {
+        "word": "par",
+        "definition": "by"
+    },
+    {
+        "word": "son",
+        "definition": "its"
+    },
+    {
+        "word": "ton",
+        "definition": "your"
+    },
+    {
+        "word": "peux",
+        "definition": "can"
+    },
+    {
+        "word": "vais",
+        "definition": "will"
+    },
+    {
+        "word": "dire",
+        "definition": "say"
+    },
+    {
+        "word": "alors",
+        "definition": "then"
+    },
+    {
+        "word": "comment",
+        "definition": "how"
+    },
+    {
+        "word": "avez",
+        "definition": "have"
+    },
+    {
+        "word": "bon",
+        "definition": "good"
+    },
+    {
+        "word": "ou",
+        "definition": "or"
+    },
+    {
+        "word": "très",
+        "definition": "highly"
+    },
+    {
+        "word": "merci",
+        "definition": "thank you"
+    },
+    {
+        "word": "ont",
+        "definition": "have"
+    },
+    {
+        "word": "même",
+        "definition": "same"
+    },
+    {
+        "word": "jamais",
+        "definition": "never"
+    },
+    {
+        "word": "aussi",
+        "definition": "also"
+    },
+    {
+        "word": "voir",
+        "definition": "watch"
+    },
+    {
+        "word": "chose",
+        "definition": "thing"
+    },
+    {
+        "word": "allez",
+        "definition": "will"
+    },
+    {
+        "word": "tous",
+        "definition": "every"
+    },
+    {
+        "word": "deux",
+        "definition": "two"
+    },
+    {
+        "word": "ces",
+        "definition": "these"
+    },
+    {
+        "word": "faut",
+        "definition": "must"
+    },
+    {
+        "word": "sa",
+        "definition": "its"
+    },
+    {
+        "word": "êtes",
+        "definition": "are"
+    },
+    {
+        "word": "été",
+        "definition": "summer"
+    },
+    {
+        "word": "ta",
+        "definition": "your"
+    },
+    {
+        "word": "fais",
+        "definition": "do"
+    },
+    {
+        "word": "avoir",
+        "definition": "have"
+    },
+    {
+        "word": "peut",
+        "definition": "can"
+    },
+    {
+        "word": "autre",
+        "definition": "other"
+    },
+    {
+        "word": "m",
+        "definition": "m"
+    },
+    {
+        "word": "encore",
+        "definition": "yet"
+    },
+    {
+        "word": "maintenant",
+        "definition": "Now"
+    },
+    {
+        "word": "peu",
+        "definition": "little"
+    },
+    {
+        "word": "mes",
+        "definition": "my"
+    },
+    {
+        "word": "vraiment",
+        "definition": "really"
+    },
+    {
+        "word": "temps",
+        "definition": "time"
+    },
+    {
+        "word": "notre",
+        "definition": "our"
+    },
+    {
+        "word": "toujours",
+        "definition": "always"
+    },
+    {
+        "word": "vie",
+        "definition": "life"
+    },
+    {
+        "word": "sans",
+        "definition": "without"
+    },
+    {
+        "word": "juste",
+        "definition": "just"
+    },
+    {
+        "word": "oh",
+        "definition": "oh"
+    },
+    {
+        "word": "avait",
+        "definition": "had"
+    },
+    {
+        "word": "accord",
+        "definition": "agreement"
+    },
+    {
+        "word": "vu",
+        "definition": "seen"
+    },
+    {
+        "word": "monde",
+        "definition": "world"
+    },
+    {
+        "word": "quelque",
+        "definition": "some"
+    },
+    {
+        "word": "fois",
+        "definition": "times"
+    },
+    {
+        "word": "aller",
+        "definition": "go"
+    },
+    {
+        "word": "trop",
+        "definition": "too"
+    },
+    {
+        "word": "viens",
+        "definition": "just"
+    },
+    {
+        "word": "crois",
+        "definition": "think"
+    },
+    {
+        "word": "dieu",
+        "definition": "god"
+    },
+    {
+        "word": "dois",
+        "definition": "have"
+    },
+    {
+        "word": "homme",
+        "definition": "man"
+    },
+    {
+        "word": "père",
+        "definition": "father"
+    },
+    {
+        "word": "sûr",
+        "definition": "secure"
+    },
+    {
+        "word": "aux",
+        "definition": "to"
+    },
+    {
+        "word": "leur",
+        "definition": "their"
+    },
+    {
+        "word": "avant",
+        "definition": "before"
+    },
+    {
+        "word": "étais",
+        "definition": "was"
+    },
+    {
+        "word": "besoin",
+        "definition": "need"
+    },
+    {
+        "word": "femme",
+        "definition": "wife"
+    },
+    {
+        "word": "aime",
+        "definition": "love"
+    },
+    {
+        "word": "personne",
+        "definition": "anyone"
+    },
+    {
+        "word": "avais",
+        "definition": "had"
+    },
+    {
+        "word": "chez",
+        "definition": "at"
+    },
+    {
+        "word": "vrai",
+        "definition": "real"
+    },
+    {
+        "word": "ans",
+        "definition": "years"
+    },
+    {
+        "word": "mal",
+        "definition": "wrong"
+    },
+    {
+        "word": "ses",
+        "definition": "its"
+    },
+    {
+        "word": "parler",
+        "definition": "speak"
+    },
+    {
+        "word": "vos",
+        "definition": "your"
+    },
+    {
+        "word": "après",
+        "definition": "after"
+    },
+    {
+        "word": "mort",
+        "definition": "death"
+    },
+    {
+        "word": "veut",
+        "definition": "wants"
+    },
+    {
+        "word": "eu",
+        "definition": "had"
+    },
+    {
+        "word": "sera",
+        "definition": "will"
+    },
+    {
+        "word": "bonne",
+        "definition": "good"
+    },
+    {
+        "word": "parce",
+        "definition": "because"
+    },
+    {
+        "word": "mieux",
+        "definition": "more"
+    },
+    {
+        "word": "petit",
+        "definition": "small"
+    },
+    {
+        "word": "voilà",
+        "definition": "here"
+    },
+    {
+        "word": "tes",
+        "definition": "your"
+    },
+    {
+        "word": "ca",
+        "definition": "ca"
+    },
+    {
+        "word": "dis",
+        "definition": "say"
+    },
+    {
+        "word": "beaucoup",
+        "definition": "a lot"
+    },
+    {
+        "word": "depuis",
+        "definition": "from"
+    },
+    {
+        "word": "doit",
+        "definition": "must"
+    },
+    {
+        "word": "vois",
+        "definition": "see"
+    },
+    {
+        "word": "mère",
+        "definition": "mother"
+    },
+    {
+        "word": "vas",
+        "definition": "going"
+    },
+    {
+        "word": "monsieur",
+        "definition": "Mr."
+    },
+    {
+        "word": "quel",
+        "definition": "what"
+    },
+    {
+        "word": "déjà",
+        "definition": "already"
+    },
+    {
+        "word": "fille",
+        "definition": "girl"
+    },
+    {
+        "word": "gens",
+        "definition": "people"
+    },
+    {
+        "word": "donc",
+        "definition": "therefore"
+    },
+    {
+        "word": "jour",
+        "definition": "daytime"
+    },
+    {
+        "word": "soir",
+        "definition": "evening"
+    },
+    {
+        "word": "autres",
+        "definition": "other"
+    },
+    {
+        "word": "ii",
+        "definition": "ii"
+    },
+    {
+        "word": "toute",
+        "definition": "any"
+    },
+    {
+        "word": "bonjour",
+        "definition": "hello"
+    },
+    {
+        "word": "ll",
+        "definition": "ll"
+    },
+    {
+        "word": "maison",
+        "definition": "home"
+    },
+    {
+        "word": "nom",
+        "definition": "name"
+    },
+    {
+        "word": "argent",
+        "definition": "money"
+    },
+    {
+        "word": "nos",
+        "definition": "our"
+    },
+    {
+        "word": "ouais",
+        "definition": "yeah"
+    },
+    {
+        "word": "pense",
+        "definition": "think"
+    },
+    {
+        "word": "merde",
+        "definition": "shit"
+    },
+    {
+        "word": "nuit",
+        "definition": "night"
+    },
+    {
+        "word": "papa",
+        "definition": "Dad"
+    },
+    {
+        "word": "cela",
+        "definition": "that"
+    },
+    {
+        "word": "salut",
+        "definition": "hi"
+    },
+    {
+        "word": "cet",
+        "definition": "this"
+    },
+    {
+        "word": "avons",
+        "definition": "have"
+    },
+    {
+        "word": "reste",
+        "definition": "remains"
+    },
+    {
+        "word": "désolé",
+        "definition": "sorry"
+    },
+    {
+        "word": "maman",
+        "definition": "mom"
+    },
+    {
+        "word": "peur",
+        "definition": "fright"
+    },
+    {
+        "word": "arrive",
+        "definition": "arrives"
+    },
+    {
+        "word": "seul",
+        "definition": "only"
+    },
+    {
+        "word": "vite",
+        "definition": "quickly"
+    },
+    {
+        "word": "prendre",
+        "definition": "have"
+    },
+    {
+        "word": "regarde",
+        "definition": "look"
+    },
+    {
+        "word": "air",
+        "definition": "air"
+    },
+    {
+        "word": "soit",
+        "definition": "or"
+    },
+    {
+        "word": "trois",
+        "definition": "three"
+    },
+    {
+        "word": "quelle",
+        "definition": "what"
+    },
+    {
+        "word": "passé",
+        "definition": "past"
+    },
+    {
+        "word": "savoir",
+        "definition": "know"
+    },
+    {
+        "word": "plaît",
+        "definition": "Please"
+    },
+    {
+        "word": "choses",
+        "definition": "things"
+    },
+    {
+        "word": "moins",
+        "definition": "less"
+    },
+    {
+        "word": "fils",
+        "definition": "son"
+    },
+    {
+        "word": "entre",
+        "definition": "between"
+    },
+    {
+        "word": "bas",
+        "definition": "low"
+    },
+    {
+        "word": "appelle",
+        "definition": "calls"
+    },
+    {
+        "word": "passe",
+        "definition": "Password"
+    },
+    {
+        "word": "ah",
+        "definition": "ah"
+    },
+    {
+        "word": "tête",
+        "definition": "head"
+    },
+    {
+        "word": "demain",
+        "definition": "tomorrow"
+    },
+    {
+        "word": "grand",
+        "definition": "great"
+    },
+    {
+        "word": "arrête",
+        "definition": "stop"
+    },
+    {
+        "word": "faites",
+        "definition": "made"
+    },
+    {
+        "word": "voulez",
+        "definition": "want"
+    },
+    {
+        "word": "hé",
+        "definition": "hey"
+    },
+    {
+        "word": "attends",
+        "definition": "wait"
+    },
+    {
+        "word": "hein",
+        "definition": "huh"
+    },
+    {
+        "word": "enfants",
+        "definition": "children"
+    },
+    {
+        "word": "assez",
+        "definition": "enough"
+    },
+    {
+        "word": "raison",
+        "definition": "reason"
+    },
+    {
+        "word": "aurais",
+        "definition": "would"
+    },
+    {
+        "word": "voulais",
+        "definition": "wanted"
+    },
+    {
+        "word": "elles",
+        "definition": "they"
+    },
+    {
+        "word": "parle",
+        "definition": "speaks"
+    },
+    {
+        "word": "ok",
+        "definition": "ok"
+    },
+    {
+        "word": "jours",
+        "definition": "days"
+    },
+    {
+        "word": "dû",
+        "definition": "due"
+    },
+    {
+        "word": "moment",
+        "definition": "time"
+    },
+    {
+        "word": "heure",
+        "definition": "time"
+    },
+    {
+        "word": "puis",
+        "definition": "then"
+    },
+    {
+        "word": "gars",
+        "definition": "guys"
+    },
+    {
+        "word": "hommes",
+        "definition": "men"
+    },
+    {
+        "word": "amour",
+        "definition": "love"
+    },
+    {
+        "word": "tard",
+        "definition": "later"
+    },
+    {
+        "word": "toutes",
+        "definition": "All"
+    },
+    {
+        "word": "sommes",
+        "definition": "About"
+    },
+    {
+        "word": "tuer",
+        "definition": "kill"
+    },
+    {
+        "word": "eh",
+        "definition": "eh"
+    },
+    {
+        "word": "ami",
+        "definition": "Friend"
+    },
+    {
+        "word": "connais",
+        "definition": "know"
+    },
+    {
+        "word": "petite",
+        "definition": "small"
+    },
+    {
+        "word": "aider",
+        "definition": "support"
+    },
+    {
+        "word": "chance",
+        "definition": "luck"
+    },
+    {
+        "word": "savez",
+        "definition": "know"
+    },
+    {
+        "word": "partir",
+        "definition": "leave"
+    },
+    {
+        "word": "sait",
+        "definition": "know"
+    },
+    {
+        "word": "combien",
+        "definition": "how much"
+    },
+    {
+        "word": "voiture",
+        "definition": "car"
+    },
+    {
+        "word": "tant",
+        "definition": "as"
+    },
+    {
+        "word": "pris",
+        "definition": "taken"
+    },
+    {
+        "word": "part",
+        "definition": "share"
+    },
+    {
+        "word": "problème",
+        "definition": "issue"
+    },
+    {
+        "word": "prends",
+        "definition": "take"
+    },
+    {
+        "word": "porte",
+        "definition": "door"
+    },
+    {
+        "word": "coup",
+        "definition": "blow"
+    },
+    {
+        "word": "serait",
+        "definition": "would"
+    },
+    {
+        "word": "venir",
+        "definition": "come"
+    },
+    {
+        "word": "hui",
+        "definition": "Today"
+    },
+    {
+        "word": "famille",
+        "definition": "Family"
+    },
+    {
+        "word": "travail",
+        "definition": "working"
+    },
+    {
+        "word": "pu",
+        "definition": "could"
+    },
+    {
+        "word": "seule",
+        "definition": "only"
+    },
+    {
+        "word": "sens",
+        "definition": "meaning"
+    },
+    {
+        "word": "ni",
+        "definition": "or"
+    },
+    {
+        "word": "allons",
+        "definition": "will"
+    },
+    {
+        "word": "revoir",
+        "definition": "review"
+    },
+    {
+        "word": "idée",
+        "definition": "notion"
+    },
+    {
+        "word": "putain",
+        "definition": "fucking"
+    },
+    {
+        "word": "passer",
+        "definition": "pass"
+    },
+    {
+        "word": "contre",
+        "definition": "against"
+    },
+    {
+        "word": "comprends",
+        "definition": "understand"
+    },
+    {
+        "word": "entendu",
+        "definition": "heard"
+    },
+    {
+        "word": "trouvé",
+        "definition": "found"
+    },
+    {
+        "word": "trouver",
+        "definition": "find"
+    },
+    {
+        "word": "vieux",
+        "definition": "old man"
+    },
+    {
+        "word": "vient",
+        "definition": "just"
+    },
+    {
+        "word": "pendant",
+        "definition": "for"
+    },
+    {
+        "word": "aurait",
+        "definition": "would"
+    },
+    {
+        "word": "quelques",
+        "definition": "a few"
+    },
+    {
+        "word": "attention",
+        "definition": "Attention"
+    },
+    {
+        "word": "demande",
+        "definition": "application"
+    },
+    {
+        "word": "chercher",
+        "definition": "search"
+    },
+    {
+        "word": "sous",
+        "definition": "in"
+    },
+    {
+        "word": "voici",
+        "definition": "here is"
+    },
+    {
+        "word": "pourrait",
+        "definition": "could"
+    },
+    {
+        "word": "sang",
+        "definition": "blood"
+    },
+    {
+        "word": "pouvez",
+        "definition": "can"
+    },
+    {
+        "word": "sortir",
+        "definition": "out"
+    },
+    {
+        "word": "question",
+        "definition": "issue"
+    },
+    {
+        "word": "histoire",
+        "definition": "history"
+    },
+    {
+        "word": "amis",
+        "definition": "friends"
+    },
+    {
+        "word": "venez",
+        "definition": "come"
+    },
+    {
+        "word": "frère",
+        "definition": "brother"
+    },
+    {
+        "word": "rester",
+        "definition": "stay"
+    },
+    {
+        "word": "fini",
+        "definition": "finished"
+    },
+    {
+        "word": "ville",
+        "definition": "City"
+    },
+    {
+        "word": "nouveau",
+        "definition": "further"
+    },
+    {
+        "word": "truc",
+        "definition": "trick"
+    },
+    {
+        "word": "tiens",
+        "definition": "like"
+    },
+    {
+        "word": "mois",
+        "definition": "month"
+    },
+    {
+        "word": "eux",
+        "definition": "them"
+    },
+    {
+        "word": "mec",
+        "definition": "guy"
+    },
+    {
+        "word": "yeux",
+        "definition": "eyes"
+    },
+    {
+        "word": "laisse",
+        "definition": "leaves"
+    },
+    {
+        "word": "super",
+        "definition": "super"
+    },
+    {
+        "word": "belle",
+        "definition": "beautiful"
+    },
+    {
+        "word": "longtemps",
+        "definition": "for a long time"
+    },
+    {
+        "word": "police",
+        "definition": "Police"
+    },
+    {
+        "word": "eau",
+        "definition": "water"
+    },
+    {
+        "word": "heures",
+        "definition": "hours"
+    },
+    {
+        "word": "car",
+        "definition": "because"
+    },
+    {
+        "word": "importe",
+        "definition": "matter"
+    },
+    {
+        "word": "cas",
+        "definition": "case"
+    },
+    {
+        "word": "vont",
+        "definition": "will"
+    },
+    {
+        "word": "chaque",
+        "definition": "every"
+    },
+    {
+        "word": "terre",
+        "definition": "earth"
+    },
+    {
+        "word": "place",
+        "definition": "Place"
+    },
+    {
+        "word": "tué",
+        "definition": "killed"
+    },
+    {
+        "word": "type",
+        "definition": "Type"
+    },
+    {
+        "word": "main",
+        "definition": "hand"
+    },
+    {
+        "word": "pardon",
+        "definition": "Forgiveness"
+    },
+    {
+        "word": "ensemble",
+        "definition": "together"
+    },
+    {
+        "word": "seulement",
+        "definition": "only"
+    },
+    {
+        "word": "guerre",
+        "definition": "war"
+    },
+    {
+        "word": "beau",
+        "definition": "beautiful"
+    },
+    {
+        "word": "vers",
+        "definition": "to"
+    },
+    {
+        "word": "mme",
+        "definition": "same"
+    },
+    {
+        "word": "prie",
+        "definition": "Please"
+    },
+    {
+        "word": "devant",
+        "definition": "before"
+    },
+    {
+        "word": "trouve",
+        "definition": "found"
+    },
+    {
+        "word": "partie",
+        "definition": "section"
+    },
+    {
+        "word": "suite",
+        "definition": "continuation"
+    },
+    {
+        "word": "compris",
+        "definition": "including"
+    },
+    {
+        "word": "matin",
+        "definition": "morning"
+    },
+    {
+        "word": "leurs",
+        "definition": "their"
+    },
+    {
+        "word": "aucun",
+        "definition": "neither"
+    },
+    {
+        "word": "arrivé",
+        "definition": "arrived"
+    },
+    {
+        "word": "dessus",
+        "definition": "on top"
+    },
+    {
+        "word": "chérie",
+        "definition": "honey"
+    },
+    {
+        "word": "mettre",
+        "definition": "place"
+    },
+    {
+        "word": "aide",
+        "definition": "help"
+    },
+    {
+        "word": "étaient",
+        "definition": "were"
+    },
+    {
+        "word": "ie",
+        "definition": "ie"
+    },
+    {
+        "word": "perdu",
+        "definition": "lost"
+    },
+    {
+        "word": "fin",
+        "definition": "end"
+    },
+    {
+        "word": "sois",
+        "definition": "am"
+    },
+    {
+        "word": "premier",
+        "definition": "first"
+    },
+    {
+        "word": "genre",
+        "definition": "kind"
+    },
+    {
+        "word": "aimerais",
+        "definition": "would"
+    },
+    {
+        "word": "droit",
+        "definition": "right"
+    },
+    {
+        "word": "donne",
+        "definition": "gives"
+    },
+    {
+        "word": "attendez",
+        "definition": "wait"
+    },
+    {
+        "word": "jeune",
+        "definition": "young"
+    },
+    {
+        "word": "feu",
+        "definition": "fire"
+    },
+    {
+        "word": "devrais",
+        "definition": "should"
+    },
+    {
+        "word": "enfant",
+        "definition": "child"
+    },
+    {
+        "word": "chambre",
+        "definition": "room"
+    },
+    {
+        "word": "gros",
+        "definition": "Wholesale"
+    },
+    {
+        "word": "côté",
+        "definition": "side"
+    },
+    {
+        "word": "venu",
+        "definition": "come"
+    },
+    {
+        "word": "loin",
+        "definition": "far"
+    },
+    {
+        "word": "laisser",
+        "definition": "leave"
+    },
+    {
+        "word": "donner",
+        "definition": "give"
+    },
+    {
+        "word": "jouer",
+        "definition": "play"
+    },
+    {
+        "word": "savais",
+        "definition": "knew"
+    },
+    {
+        "word": "compte",
+        "definition": "account"
+    },
+    {
+        "word": "s",
+        "definition": "s"
+    },
+    {
+        "word": "parlé",
+        "definition": "spoken"
+    },
+    {
+        "word": "minutes",
+        "definition": "minutes"
+    },
+    {
+        "word": "regardez",
+        "definition": "look"
+    },
+    {
+        "word": "train",
+        "definition": "Train"
+    },
+    {
+        "word": "première",
+        "definition": "first"
+    },
+    {
+        "word": "pouvoir",
+        "definition": "authority"
+    },
+    {
+        "word": "aura",
+        "definition": "will"
+    },
+    {
+        "word": "mourir",
+        "definition": "die"
+    },
+    {
+        "word": "dernière",
+        "definition": "Last"
+    },
+    {
+        "word": "donné",
+        "definition": "given"
+    },
+    {
+        "word": "ia",
+        "definition": "ia"
+    },
+    {
+        "word": "mari",
+        "definition": "husband"
+    },
+    {
+        "word": "écoute",
+        "definition": "listening"
+    },
+    {
+        "word": "enfin",
+        "definition": "finally"
+    },
+    {
+        "word": "devrait",
+        "definition": "should"
+    },
+    {
+        "word": "mis",
+        "definition": "set"
+    },
+    {
+        "word": "film",
+        "definition": "movie"
+    },
+    {
+        "word": "aucune",
+        "definition": "no"
+    },
+    {
+        "word": "fort",
+        "definition": "strong"
+    },
+    {
+        "word": "façon",
+        "definition": "way"
+    },
+    {
+        "word": "pays",
+        "definition": "country"
+    },
+    {
+        "word": "prêt",
+        "definition": "ready"
+    },
+    {
+        "word": "madame",
+        "definition": "Mrs."
+    },
+    {
+        "word": "femmes",
+        "definition": "women"
+    },
+    {
+        "word": "affaire",
+        "definition": "business"
+    },
+    {
+        "word": "pourrais",
+        "definition": "could"
+    },
+    {
+        "word": "espère",
+        "definition": "hope"
+    },
+    {
+        "word": "parti",
+        "definition": "party"
+    },
+    {
+        "word": "h",
+        "definition": "h"
+    },
+    {
+        "word": "boulot",
+        "definition": "job"
+    },
+    {
+        "word": "endroit",
+        "definition": "place"
+    },
+    {
+        "word": "fou",
+        "definition": "crazy"
+    },
+    {
+        "word": "corps",
+        "definition": "body"
+    },
+    {
+        "word": "hier",
+        "definition": "yesterday"
+    },
+    {
+        "word": "dont",
+        "definition": "which"
+    },
+    {
+        "word": "désolée",
+        "definition": "sorry"
+    },
+    {
+        "word": "grande",
+        "definition": "high"
+    },
+    {
+        "word": "point",
+        "definition": "item"
+    },
+    {
+        "word": "cinq",
+        "definition": "five"
+    },
+    {
+        "word": "dehors",
+        "definition": "out"
+    },
+    {
+        "word": "filles",
+        "definition": "girls"
+    },
+    {
+        "word": "cause",
+        "definition": "because"
+    },
+    {
+        "word": "vivre",
+        "definition": "experience"
+    },
+    {
+        "word": "près",
+        "definition": "close"
+    },
+    {
+        "word": "pensais",
+        "definition": "thought"
+    },
+    {
+        "word": "garçon",
+        "definition": "boy"
+    },
+    {
+        "word": "chef",
+        "definition": "Chief"
+    },
+    {
+        "word": "haut",
+        "definition": "top"
+    },
+    {
+        "word": "capitaine",
+        "definition": "Captain"
+    },
+    {
+        "word": "dirait",
+        "definition": "say"
+    },
+    {
+        "word": "bébé",
+        "definition": "Baby"
+    },
+    {
+        "word": "celui",
+        "definition": "the"
+    },
+    {
+        "word": "demandé",
+        "definition": "required"
+    },
+    {
+        "word": "possible",
+        "definition": "can"
+    },
+    {
+        "word": "mains",
+        "definition": "hands"
+    },
+    {
+        "word": "ainsi",
+        "definition": "thereby"
+    },
+    {
+        "word": "quatre",
+        "definition": "four"
+    },
+    {
+        "word": "nouvelle",
+        "definition": "news"
+    },
+    {
+        "word": "années",
+        "definition": "years"
+    },
+    {
+        "word": "plein",
+        "definition": "full"
+    },
+    {
+        "word": "semaine",
+        "definition": "week"
+    },
+    {
+        "word": "dites",
+        "definition": "say"
+    },
+    {
+        "word": "croire",
+        "definition": "believe"
+    },
+    {
+        "word": "marche",
+        "definition": "walking"
+    },
+    {
+        "word": "tour",
+        "definition": "tower"
+    },
+    {
+        "word": "école",
+        "definition": "school"
+    },
+    {
+        "word": "manger",
+        "definition": "eat"
+    },
+    {
+        "word": "plutôt",
+        "definition": "rather"
+    },
+    {
+        "word": "docteur",
+        "definition": "doctor"
+    },
+    {
+        "word": "ceux",
+        "definition": "those"
+    },
+    {
+        "word": "vérité",
+        "definition": "truth"
+    },
+    {
+        "word": "vue",
+        "definition": "view"
+    },
+    {
+        "word": "arrêter",
+        "definition": "shut down"
+    },
+    {
+        "word": "essaie",
+        "definition": "tries"
+    },
+    {
+        "word": "envie",
+        "definition": "want"
+    },
+    {
+        "word": "bientôt",
+        "definition": "shortly"
+    },
+    {
+        "word": "instant",
+        "definition": "Nothing"
+    },
+    {
+        "word": "dernier",
+        "definition": "latest"
+    },
+    {
+        "word": "affaires",
+        "definition": "business"
+    },
+    {
+        "word": "arriver",
+        "definition": "get"
+    },
+    {
+        "word": "demander",
+        "definition": "call"
+    },
+    {
+        "word": "meilleur",
+        "definition": "top"
+    },
+    {
+        "word": "font",
+        "definition": "are"
+    },
+    {
+        "word": "derrière",
+        "definition": "rear"
+    },
+    {
+        "word": "c",
+        "definition": "c"
+    },
+    {
+        "word": "dollars",
+        "definition": "dollars"
+    },
+    {
+        "word": "presque",
+        "definition": "almost"
+    },
+    {
+        "word": "dr",
+        "definition": "dr"
+    },
+    {
+        "word": "tellement",
+        "definition": "so"
+    },
+    {
+        "word": "tomber",
+        "definition": "fall"
+    },
+    {
+        "word": "journée",
+        "definition": "daytime"
+    },
+    {
+        "word": "voulait",
+        "definition": "wanted"
+    },
+    {
+        "word": "appeler",
+        "definition": "call"
+    },
+    {
+        "word": "bureau",
+        "definition": "office"
+    },
+    {
+        "word": "confiance",
+        "definition": "trust"
+    },
+    {
+        "word": "garde",
+        "definition": "Guard"
+    },
+    {
+        "word": "attendre",
+        "definition": "expect"
+    },
+    {
+        "word": "numéro",
+        "definition": "issue"
+    },
+    {
+        "word": "serai",
+        "definition": "will"
+    },
+    {
+        "word": "dur",
+        "definition": "hard"
+    },
+    {
+        "word": "á",
+        "definition": "á"
+    },
+    {
+        "word": "souviens",
+        "definition": "remember"
+    },
+    {
+        "word": "o",
+        "definition": "o"
+    },
+    {
+        "word": "voyez",
+        "definition": "see"
+    },
+    {
+        "word": "cours",
+        "definition": "course"
+    },
+    {
+        "word": "bonsoir",
+        "definition": "good evening"
+    },
+    {
+        "word": "route",
+        "definition": "road"
+    },
+    {
+        "word": "fera",
+        "definition": "will"
+    },
+    {
+        "word": "prend",
+        "definition": "takes"
+    },
+    {
+        "word": "cul",
+        "definition": "ass"
+    },
+    {
+        "word": "abord",
+        "definition": "first"
+    },
+    {
+        "word": "important",
+        "definition": "significant"
+    },
+    {
+        "word": "peine",
+        "definition": "sorrow"
+    },
+    {
+        "word": "croyais",
+        "definition": "thought"
+    },
+    {
+        "word": "mot",
+        "definition": "word"
+    },
+    {
+        "word": "devez",
+        "definition": "must"
+    },
+    {
+        "word": "suffit",
+        "definition": "only"
+    },
+    {
+        "word": "minute",
+        "definition": "minute"
+    },
+    {
+        "word": "ferme",
+        "definition": "farm"
+    },
+    {
+        "word": "ben",
+        "definition": "ben"
+    },
+    {
+        "word": "plaisir",
+        "definition": "pleasure"
+    },
+    {
+        "word": "chien",
+        "definition": "Dog"
+    },
+    {
+        "word": "jeu",
+        "definition": "game"
+    },
+    {
+        "word": "seigneur",
+        "definition": "Lord"
+    },
+    {
+        "word": "messieurs",
+        "definition": "Men"
+    },
+    {
+        "word": "calme",
+        "definition": "calm"
+    },
+    {
+        "word": "voudrais",
+        "definition": "would"
+    },
+    {
+        "word": "heureux",
+        "definition": "happy"
+    },
+    {
+        "word": "prenez",
+        "definition": "take"
+    },
+    {
+        "word": "mariage",
+        "definition": "Wedding"
+    },
+    {
+        "word": "voit",
+        "definition": "sees"
+    },
+    {
+        "word": "parents",
+        "definition": "Parents"
+    },
+    {
+        "word": "lls",
+        "definition": "They"
+    },
+    {
+        "word": "dedans",
+        "definition": "inside"
+    },
+    {
+        "word": "entrer",
+        "definition": "get in"
+    },
+    {
+        "word": "lit",
+        "definition": "bed"
+    },
+    {
+        "word": "parfait",
+        "definition": "perfect"
+    },
+    {
+        "word": "fous",
+        "definition": "crazy"
+    },
+    {
+        "word": "mlle",
+        "definition": "miss"
+    },
+    {
+        "word": "rentrer",
+        "definition": "return"
+    },
+    {
+        "word": "ait",
+        "definition": "has"
+    },
+    {
+        "word": "musique",
+        "definition": "Music"
+    },
+    {
+        "word": "arrêtez",
+        "definition": "stop"
+    },
+    {
+        "word": "autant",
+        "definition": "as"
+    },
+    {
+        "word": "service",
+        "definition": "serving"
+    },
+    {
+        "word": "reviens",
+        "definition": "back"
+    },
+    {
+        "word": "ceci",
+        "definition": "this"
+    },
+    {
+        "word": "drôle",
+        "definition": "funny"
+    },
+    {
+        "word": "attend",
+        "definition": "expected"
+    },
+    {
+        "word": "parfois",
+        "definition": "sometimes"
+    },
+    {
+        "word": "téléphone",
+        "definition": "phone"
+    },
+    {
+        "word": "retour",
+        "definition": "return"
+    },
+    {
+        "word": "ira",
+        "definition": "will"
+    },
+    {
+        "word": "e",
+        "definition": "e"
+    },
+    {
+        "word": "pauvre",
+        "definition": "poor"
+    },
+    {
+        "word": "verre",
+        "definition": "Glass"
+    },
+    {
+        "word": "général",
+        "definition": "broad"
+    },
+    {
+        "word": "new",
+        "definition": "new"
+    },
+    {
+        "word": "six",
+        "definition": "six"
+    },
+    {
+        "word": "pensé",
+        "definition": "thought"
+    },
+    {
+        "word": "l",
+        "definition": "the"
+    },
+    {
+        "word": "impossible",
+        "definition": "not"
+    },
+    {
+        "word": "fête",
+        "definition": "celebration"
+    },
+    {
+        "word": "adore",
+        "definition": "love"
+    },
+    {
+        "word": "coeur",
+        "definition": "heart"
+    },
+    {
+        "word": "aimes",
+        "definition": "love"
+    },
+    {
+        "word": "ci",
+        "definition": "this"
+    },
+    {
+        "word": "ferai",
+        "definition": "will"
+    },
+    {
+        "word": "président",
+        "definition": "President"
+    },
+    {
+        "word": "doute",
+        "definition": "doubt"
+    },
+    {
+        "word": "facile",
+        "definition": "easy"
+    },
+    {
+        "word": "entends",
+        "definition": "hear"
+    },
+    {
+        "word": "payer",
+        "definition": "pay"
+    },
+    {
+        "word": "appelé",
+        "definition": "called"
+    },
+    {
+        "word": "prison",
+        "definition": "Prison"
+    },
+    {
+        "word": "john",
+        "definition": "john"
+    },
+    {
+        "word": "sors",
+        "definition": "go"
+    },
+    {
+        "word": "café",
+        "definition": "Coffee"
+    },
+    {
+        "word": "vaut",
+        "definition": "is"
+    },
+    {
+        "word": "mauvais",
+        "definition": "bad"
+    },
+    {
+        "word": "chéri",
+        "definition": "honey"
+    },
+    {
+        "word": "oublié",
+        "definition": "Forgot"
+    },
+    {
+        "word": "bras",
+        "definition": "arm"
+    },
+    {
+        "word": "i",
+        "definition": "i"
+    },
+    {
+        "word": "gentil",
+        "definition": "nice"
+    },
+    {
+        "word": "faute",
+        "definition": "foul"
+    },
+    {
+        "word": "équipe",
+        "definition": "team"
+    },
+    {
+        "word": "exactement",
+        "definition": "exactly"
+    },
+    {
+        "word": "cœur",
+        "definition": "heart"
+    },
+    {
+        "word": "penser",
+        "definition": "think"
+    },
+    {
+        "word": "changer",
+        "definition": "change"
+    },
+    {
+        "word": "commence",
+        "definition": "begins"
+    },
+    {
+        "word": "lieu",
+        "definition": "place"
+    },
+    {
+        "word": "entendre",
+        "definition": "hear"
+    },
+    {
+        "word": "ies",
+        "definition": "ies"
+    },
+    {
+        "word": "roi",
+        "definition": "King"
+    },
+    {
+        "word": "plan",
+        "definition": "Plan"
+    },
+    {
+        "word": "partout",
+        "definition": "everywhere"
+    },
+    {
+        "word": "joue",
+        "definition": "plays"
+    },
+    {
+        "word": "cher",
+        "definition": "expensive"
+    },
+    {
+        "word": "morts",
+        "definition": "dead"
+    },
+    {
+        "word": "rendre",
+        "definition": "return"
+    },
+    {
+        "word": "écrit",
+        "definition": "written"
+    },
+    {
+        "word": "travailler",
+        "definition": "work"
+    },
+    {
+        "word": "malade",
+        "definition": "sick"
+    },
+    {
+        "word": "sinon",
+        "definition": "otherwise"
+    },
+    {
+        "word": "génial",
+        "definition": "awesome"
+    },
+    {
+        "word": "regarder",
+        "definition": "watch"
+    },
+    {
+        "word": "veulent",
+        "definition": "want"
+    },
+    {
+        "word": "montrer",
+        "definition": "show"
+    },
+    {
+        "word": "rentre",
+        "definition": "returns"
+    },
+    {
+        "word": "travaille",
+        "definition": "works"
+    },
+    {
+        "word": "armée",
+        "definition": "army"
+    },
+    {
+        "word": "voulu",
+        "definition": "required"
+    },
+    {
+        "word": "cherche",
+        "definition": "seeks"
+    },
+    {
+        "word": "état",
+        "definition": "condition"
+    },
+    {
+        "word": "boire",
+        "definition": "drink"
+    },
+    {
+        "word": "sécurité",
+        "definition": "security"
+    },
+    {
+        "word": "dès",
+        "definition": "from"
+    },
+    {
+        "word": "esprit",
+        "definition": "wit"
+    },
+    {
+        "word": "année",
+        "definition": "year"
+    },
+    {
+        "word": "dix",
+        "definition": "ten"
+    },
+    {
+        "word": "york",
+        "definition": "york"
+    },
+    {
+        "word": "laissé",
+        "definition": "left"
+    },
+    {
+        "word": "bois",
+        "definition": "wood"
+    },
+    {
+        "word": "mets",
+        "definition": "put"
+    },
+    {
+        "word": "propre",
+        "definition": "own"
+    },
+    {
+        "word": "soyez",
+        "definition": "are"
+    },
+    {
+        "word": "jack",
+        "definition": "jack"
+    },
+    {
+        "word": "essayer",
+        "definition": "try"
+    },
+    {
+        "word": "faisait",
+        "definition": "was"
+    },
+    {
+        "word": "tôt",
+        "definition": "early"
+    },
+    {
+        "word": "surtout",
+        "definition": "mainly"
+    },
+    {
+        "word": "arme",
+        "definition": "weapon"
+    },
+    {
+        "word": "t",
+        "definition": "t"
+    },
+    {
+        "word": "rêve",
+        "definition": "dream"
+    },
+    {
+        "word": "perdre",
+        "definition": "lose"
+    },
+    {
+        "word": "avis",
+        "definition": "Review"
+    },
+    {
+        "word": "semble",
+        "definition": "seems"
+    },
+    {
+        "word": "pire",
+        "definition": "worse"
+    },
+    {
+        "word": "simple",
+        "definition": "single"
+    },
+    {
+        "word": "penses",
+        "definition": "think"
+    },
+    {
+        "word": "parles",
+        "definition": "talk"
+    },
+    {
+        "word": "paix",
+        "definition": "Peace"
+    },
+    {
+        "word": "livre",
+        "definition": "Book"
+    },
+    {
+        "word": "dormir",
+        "definition": "sleep"
+    },
+    {
+        "word": "voyons",
+        "definition": "see"
+    },
+    {
+        "word": "difficile",
+        "definition": "difficult"
+    },
+    {
+        "word": "retard",
+        "definition": "delay"
+    },
+    {
+        "word": "allait",
+        "definition": "would"
+    },
+    {
+        "word": "d",
+        "definition": "d"
+    },
+    {
+        "word": "sujet",
+        "definition": "topic"
+    },
+    {
+        "word": "appris",
+        "definition": "learned"
+    },
+    {
+        "word": "ensuite",
+        "definition": "then"
+    },
+    {
+        "word": "sauf",
+        "definition": "except"
+    },
+    {
+        "word": "maître",
+        "definition": "master"
+    },
+    {
+        "word": "morte",
+        "definition": "dead"
+    },
+    {
+        "word": "noir",
+        "definition": "black"
+    },
+    {
+        "word": "or",
+        "definition": "gold"
+    },
+    {
+        "word": "dîner",
+        "definition": "dinner"
+    },
+    {
+        "word": "choix",
+        "definition": "choice"
+    },
+    {
+        "word": "serais",
+        "definition": "would"
+    },
+    {
+        "word": "ecoute",
+        "definition": "listening"
+    },
+    {
+        "word": "sale",
+        "definition": "dirty"
+    },
+    {
+        "word": "étiez",
+        "definition": "were"
+    },
+    {
+        "word": "sûrement",
+        "definition": "surely"
+    },
+    {
+        "word": "an",
+        "definition": "year"
+    },
+    {
+        "word": "ordre",
+        "definition": "order"
+    },
+    {
+        "word": "souvent",
+        "definition": "often"
+    },
+    {
+        "word": "essayé",
+        "definition": "tried"
+    },
+    {
+        "word": "peuvent",
+        "definition": "can"
+    },
+    {
+        "word": "visage",
+        "definition": "face"
+    },
+    {
+        "word": "bout",
+        "definition": "end"
+    },
+    {
+        "word": "changé",
+        "definition": "changed"
+    },
+    {
+        "word": "sérieux",
+        "definition": "serious"
+    },
+    {
+        "word": "inquiète",
+        "definition": "concerned"
+    },
+    {
+        "word": "âge",
+        "definition": "ages"
+    },
+    {
+        "word": "photo",
+        "definition": "Photo"
+    },
+    {
+        "word": "rue",
+        "definition": "street"
+    },
+    {
+        "word": "tirer",
+        "definition": "shoot"
+    },
+    {
+        "word": "comprendre",
+        "definition": "include"
+    },
+    {
+        "word": "face",
+        "definition": "face"
+    },
+    {
+        "word": "semaines",
+        "definition": "weeks"
+    },
+    {
+        "word": "marché",
+        "definition": "market"
+    },
+    {
+        "word": "questions",
+        "definition": "issues"
+    },
+    {
+        "word": "honneur",
+        "definition": "honor"
+    },
+    {
+        "word": "ciel",
+        "definition": "sky"
+    },
+    {
+        "word": "allé",
+        "definition": "went"
+    },
+    {
+        "word": "garder",
+        "definition": "keep"
+    },
+    {
+        "word": "chemin",
+        "definition": "road"
+    },
+    {
+        "word": "grave",
+        "definition": "serious"
+    },
+    {
+        "word": "gauche",
+        "definition": "left"
+    },
+    {
+        "word": "petits",
+        "definition": "small"
+    },
+    {
+        "word": "courant",
+        "definition": "current"
+    },
+    {
+        "word": "amie",
+        "definition": "friend"
+    },
+    {
+        "word": "nouvelles",
+        "definition": "news"
+    },
+    {
+        "word": "avion",
+        "definition": "aircraft"
+    },
+    {
+        "word": "con",
+        "definition": "con"
+    },
+    {
+        "word": "content",
+        "definition": "happy"
+    },
+    {
+        "word": "force",
+        "definition": "strength"
+    },
+    {
+        "word": "millions",
+        "definition": "million"
+    },
+    {
+        "word": "oublie",
+        "definition": "forget"
+    },
+    {
+        "word": "devoir",
+        "definition": "have to"
+    },
+    {
+        "word": "prochaine",
+        "definition": "next"
+    },
+    {
+        "word": "prix",
+        "definition": "price"
+    },
+    {
+        "word": "propos",
+        "definition": "About"
+    },
+    {
+        "word": "bateau",
+        "definition": "boat"
+    },
+    {
+        "word": "bouge",
+        "definition": "moves"
+    },
+    {
+        "word": "voix",
+        "definition": "voice"
+    },
+    {
+        "word": "rouge",
+        "definition": "red"
+    },
+    {
+        "word": "restez",
+        "definition": "stay"
+    },
+    {
+        "word": "celle",
+        "definition": "that"
+    },
+    {
+        "word": "pouvais",
+        "definition": "could"
+    },
+    {
+        "word": "personnes",
+        "definition": "people"
+    },
+    {
+        "word": "ferais",
+        "definition": "would"
+    },
+    {
+        "word": "début",
+        "definition": "first"
+    },
+    {
+        "word": "espèce",
+        "definition": "species"
+    },
+    {
+        "word": "gueule",
+        "definition": "mouth"
+    },
+    {
+        "word": "acheter",
+        "definition": "purchase"
+    },
+    {
+        "word": "continue",
+        "definition": "continues"
+    },
+    {
+        "word": "sort",
+        "definition": "out"
+    },
+    {
+        "word": "faim",
+        "definition": "hunger"
+    },
+    {
+        "word": "long",
+        "definition": "long"
+    },
+    {
+        "word": "j",
+        "definition": "j"
+    },
+    {
+        "word": "voyage",
+        "definition": "Travel"
+    },
+    {
+        "word": "message",
+        "definition": "Post"
+    },
+    {
+        "word": "sorte",
+        "definition": "so"
+    },
+    {
+        "word": "reçu",
+        "definition": "received"
+    },
+    {
+        "word": "bienvenue",
+        "definition": "Welcome"
+    },
+    {
+        "word": "idiot",
+        "definition": "idiot"
+    },
+    {
+        "word": "certains",
+        "definition": "some"
+    },
+    {
+        "word": "hôpital",
+        "definition": "hospital"
+    },
+    {
+        "word": "promis",
+        "definition": "promised"
+    },
+    {
+        "word": "devenir",
+        "definition": "become"
+    },
+    {
+        "word": "ouvre",
+        "definition": "opens"
+    },
+    {
+        "word": "grâce",
+        "definition": "thanks"
+    },
+    {
+        "word": "sûre",
+        "definition": "safe"
+    },
+    {
+        "word": "problèmes",
+        "definition": "difficulties"
+    },
+    {
+        "word": "armes",
+        "definition": "weapons"
+    },
+    {
+        "word": "trucs",
+        "definition": "stuff"
+    },
+    {
+        "word": "camp",
+        "definition": "camp"
+    },
+    {
+        "word": "allais",
+        "definition": "would"
+    },
+    {
+        "word": "occupe",
+        "definition": "occupies"
+    },
+    {
+        "word": "devait",
+        "definition": "was"
+    },
+    {
+        "word": "manque",
+        "definition": "lack"
+    },
+    {
+        "word": "connaissez",
+        "definition": "know"
+    },
+    {
+        "word": "the",
+        "definition": "the"
+    },
+    {
+        "word": "avaient",
+        "definition": "had"
+    },
+    {
+        "word": "cheveux",
+        "definition": "hair"
+    },
+    {
+        "word": "soleil",
+        "definition": "sun"
+    },
+    {
+        "word": "salle",
+        "definition": "room"
+    },
+    {
+        "word": "gagner",
+        "definition": "win"
+    },
+    {
+        "word": "laissez",
+        "definition": "let"
+    },
+    {
+        "word": "erreur",
+        "definition": "error"
+    },
+    {
+        "word": "cru",
+        "definition": "believed"
+    },
+    {
+        "word": "pars",
+        "definition": "go"
+    },
+    {
+        "word": "bizarre",
+        "definition": "weird"
+    },
+    {
+        "word": "croyez",
+        "definition": "believe"
+    },
+    {
+        "word": "sac",
+        "definition": "bag"
+    },
+    {
+        "word": "hôtel",
+        "definition": "Hotel"
+    },
+    {
+        "word": "oncle",
+        "definition": "Uncle"
+    },
+    {
+        "word": "pièce",
+        "definition": "room"
+    },
+    {
+        "word": "pouvait",
+        "definition": "could"
+    },
+    {
+        "word": "fond",
+        "definition": "background"
+    },
+    {
+        "word": "soirée",
+        "definition": "evening"
+    },
+    {
+        "word": "secret",
+        "definition": "secret"
+    },
+    {
+        "word": "patron",
+        "definition": "boss"
+    },
+    {
+        "word": "rapport",
+        "definition": "report"
+    },
+    {
+        "word": "apprendre",
+        "definition": "learn"
+    },
+    {
+        "word": "commencé",
+        "definition": "started"
+    },
+    {
+        "word": "sauver",
+        "definition": "save"
+    },
+    {
+        "word": "seconde",
+        "definition": "second"
+    },
+    {
+        "word": "pensez",
+        "definition": "think"
+    },
+    {
+        "word": "allô",
+        "definition": "hello"
+    },
+    {
+        "word": "ailleurs",
+        "definition": "somewhere else"
+    },
+    {
+        "word": "agent",
+        "definition": "agent"
+    },
+    {
+        "word": "froid",
+        "definition": "cold"
+    },
+    {
+        "word": "seras",
+        "definition": "ll"
+    },
+    {
+        "word": "pied",
+        "definition": "foot"
+    },
+    {
+        "word": "jolie",
+        "definition": "pretty"
+    },
+    {
+        "word": "revenir",
+        "definition": "return"
+    },
+    {
+        "word": "scène",
+        "definition": "scene"
+    },
+    {
+        "word": "pieds",
+        "definition": "feet"
+    },
+    {
+        "word": "n",
+        "definition": "n"
+    },
+    {
+        "word": "devons",
+        "definition": "have"
+    },
+    {
+        "word": "groupe",
+        "definition": "group"
+    },
+    {
+        "word": "carte",
+        "definition": "map"
+    },
+    {
+        "word": "aurai",
+        "definition": "ll"
+    },
+    {
+        "word": "effet",
+        "definition": "effect"
+    },
+    {
+        "word": "neuf",
+        "definition": "new"
+    },
+    {
+        "word": "fallait",
+        "definition": "had"
+    },
+    {
+        "word": "monte",
+        "definition": "rises"
+    },
+    {
+        "word": "battre",
+        "definition": "beat"
+    },
+    {
+        "word": "noël",
+        "definition": "christmas"
+    },
+    {
+        "word": "venue",
+        "definition": "coming"
+    },
+    {
+        "word": "mots",
+        "definition": "words"
+    },
+    {
+        "word": "tire",
+        "definition": "draws"
+    },
+    {
+        "word": "droite",
+        "definition": "right"
+    },
+    {
+        "word": "libre",
+        "definition": "Free"
+    },
+    {
+        "word": "soeur",
+        "definition": "sister"
+    },
+    {
+        "word": "situation",
+        "definition": "location"
+    },
+    {
+        "word": "seront",
+        "definition": "will"
+    },
+    {
+        "word": "faux",
+        "definition": "wrong"
+    },
+    {
+        "word": "bordel",
+        "definition": "brothel"
+    },
+    {
+        "word": "foutre",
+        "definition": "fuck"
+    },
+    {
+        "word": "lumière",
+        "definition": "light"
+    },
+    {
+        "word": "euh",
+        "definition": "uh"
+    },
+    {
+        "word": "incroyable",
+        "definition": "incredible"
+    },
+    {
+        "word": "tue",
+        "definition": "kills"
+    },
+    {
+        "word": "joli",
+        "definition": "pretty"
+    },
+    {
+        "word": "connaît",
+        "definition": "knows"
+    },
+    {
+        "word": "debout",
+        "definition": "standing"
+    },
+    {
+        "word": "colonel",
+        "definition": "Colonel"
+    },
+    {
+        "word": "cheval",
+        "definition": "horse"
+    },
+    {
+        "word": "écoutez",
+        "definition": "listen"
+    },
+    {
+        "word": "george",
+        "definition": "george"
+    },
+    {
+        "word": "joe",
+        "definition": "joe"
+    },
+    {
+        "word": "vieille",
+        "definition": "old"
+    },
+    {
+        "word": "entrez",
+        "definition": "enter"
+    },
+    {
+        "word": "intérieur",
+        "definition": "inside"
+    },
+    {
+        "word": "coin",
+        "definition": "corner"
+    },
+    {
+        "word": "auras",
+        "definition": "get"
+    },
+    {
+        "word": "gagné",
+        "definition": "won"
+    },
+    {
+        "word": "fric",
+        "definition": "money"
+    },
+    {
+        "word": "loi",
+        "definition": "law"
+    },
+    {
+        "word": "absolument",
+        "definition": "absolutely"
+    },
+    {
+        "word": "dame",
+        "definition": "lady"
+    },
+    {
+        "word": "cool",
+        "definition": "cool"
+    },
+    {
+        "word": "magnifique",
+        "definition": "wonderful"
+    },
+    {
+        "word": "dos",
+        "definition": "back"
+    },
+    {
+        "word": "occuper",
+        "definition": "care"
+    },
+    {
+        "word": "présent",
+        "definition": "this"
+    },
+    {
+        "word": "retrouver",
+        "definition": "recover"
+    },
+    {
+        "word": "réussi",
+        "definition": "successful"
+    },
+    {
+        "word": "frank",
+        "definition": "frank"
+    },
+    {
+        "word": "rencontrer",
+        "definition": "encounter"
+    },
+    {
+        "word": "aviez",
+        "definition": "had"
+    },
+    {
+        "word": "meilleure",
+        "definition": "better"
+    },
+    {
+        "word": "âme",
+        "definition": "soul"
+    },
+    {
+        "word": "prêts",
+        "definition": "loans"
+    },
+    {
+        "word": "doucement",
+        "definition": "gently"
+    },
+    {
+        "word": "table",
+        "definition": "table"
+    },
+    {
+        "word": "lettre",
+        "definition": "letter"
+    },
+    {
+        "word": "rappelle",
+        "definition": "recalls"
+    },
+    {
+        "word": "sam",
+        "definition": "sam"
+    },
+    {
+        "word": "fut",
+        "definition": "was"
+    },
+    {
+        "word": "risque",
+        "definition": "risk"
+    },
+    {
+        "word": "ordres",
+        "definition": "orders"
+    },
+    {
+        "word": "appel",
+        "definition": "call"
+    },
+    {
+        "word": "commencer",
+        "definition": "start"
+    },
+    {
+        "word": "terminé",
+        "definition": "finished"
+    },
+    {
+        "word": "agit",
+        "definition": "is"
+    },
+    {
+        "word": "blanc",
+        "definition": "white"
+    },
+    {
+        "word": "sœur",
+        "definition": "sister"
+    },
+    {
+        "word": "pareil",
+        "definition": "such"
+    },
+    {
+        "word": "charlie",
+        "definition": "charlie"
+    },
+    {
+        "word": "chaud",
+        "definition": "hot"
+    },
+    {
+        "word": "finir",
+        "definition": "end"
+    },
+    {
+        "word": "touche",
+        "definition": "key"
+    },
+    {
+        "word": "avance",
+        "definition": "advance"
+    },
+    {
+        "word": "ignore",
+        "definition": "ignores"
+    },
+    {
+        "word": "meurtre",
+        "definition": "murder"
+    },
+    {
+        "word": "tranquille",
+        "definition": "peaceful"
+    },
+    {
+        "word": "anniversaire",
+        "definition": "birthday"
+    },
+    {
+        "word": "déjeuner",
+        "definition": "breakfast"
+    },
+    {
+        "word": "disais",
+        "definition": "said"
+    },
+    {
+        "word": "bord",
+        "definition": "edge"
+    },
+    {
+        "word": "tom",
+        "definition": "tom"
+    },
+    {
+        "word": "jeunes",
+        "definition": "youth"
+    },
+    {
+        "word": "accident",
+        "definition": "accident"
+    },
+    {
+        "word": "parlez",
+        "definition": "talk"
+    },
+    {
+        "word": "fasse",
+        "definition": "do"
+    },
+    {
+        "word": "complètement",
+        "definition": "completely"
+    },
+    {
+        "word": "déteste",
+        "definition": "hate"
+    },
+    {
+        "word": "clair",
+        "definition": "clear"
+    },
+    {
+        "word": "marcher",
+        "definition": "walk"
+    },
+    {
+        "word": "disait",
+        "definition": "said"
+    },
+    {
+        "word": "mauvaise",
+        "definition": "bad"
+    },
+    {
+        "word": "envoyé",
+        "definition": "sent"
+    },
+    {
+        "word": "â",
+        "definition": "â"
+    },
+    {
+        "word": "professeur",
+        "definition": "Professor"
+    },
+    {
+        "word": "heureuse",
+        "definition": "happy"
+    },
+    {
+        "word": "doivent",
+        "definition": "must"
+    },
+    {
+        "word": "midi",
+        "definition": "twelve o'clock"
+    },
+    {
+        "word": "lire",
+        "definition": "read"
+    },
+    {
+        "word": "moyen",
+        "definition": "average"
+    },
+    {
+        "word": "ferait",
+        "definition": "would"
+    },
+    {
+        "word": "commandant",
+        "definition": "commanding"
+    },
+    {
+        "word": "vraie",
+        "definition": "TRUE"
+    },
+    {
+        "word": "//",
+        "definition": "/ /"
+    },
+    {
+        "word": "forme",
+        "definition": "form"
+    },
+    {
+        "word": "tombe",
+        "definition": "falls"
+    },
+    {
+        "word": "silence",
+        "definition": "Silence"
+    },
+    {
+        "word": "sortez",
+        "definition": "out"
+    },
+    {
+        "word": "connaître",
+        "definition": "know"
+    },
+    {
+        "word": "puisse",
+        "definition": "can"
+    },
+    {
+        "word": "cadeau",
+        "definition": "gift"
+    },
+    {
+        "word": "flics",
+        "definition": "cops"
+    },
+    {
+        "word": "mer",
+        "definition": "Sea"
+    },
+    {
+        "word": "médecin",
+        "definition": "doctor"
+    },
+    {
+        "word": "exact",
+        "definition": "exact"
+    },
+    {
+        "word": "décidé",
+        "definition": "decided"
+    },
+    {
+        "word": "moitié",
+        "definition": "half"
+    },
+    {
+        "word": "surprise",
+        "definition": "shock"
+    },
+    {
+        "word": "avocat",
+        "definition": "lawyer"
+    },
+    {
+        "word": "montre",
+        "definition": "shows"
+    },
+    {
+        "word": "b",
+        "definition": "b"
+    },
+    {
+        "word": "su",
+        "definition": "su"
+    },
+    {
+        "word": "porter",
+        "definition": "wear"
+    },
+    {
+        "word": "télé",
+        "definition": "TV"
+    },
+    {
+        "word": "vivant",
+        "definition": "living"
+    },
+    {
+        "word": "jure",
+        "definition": "jure"
+    },
+    {
+        "word": "disent",
+        "definition": "say"
+    },
+    {
+        "word": "mr",
+        "definition": "mr"
+    },
+    {
+        "word": "serez",
+        "definition": "will"
+    },
+    {
+        "word": "devriez",
+        "definition": "should"
+    },
+    {
+        "word": "devenu",
+        "definition": "become"
+    },
+    {
+        "word": "aimé",
+        "definition": "loved"
+    },
+    {
+        "word": "diable",
+        "definition": "Devil"
+    },
+    {
+        "word": "ligne",
+        "definition": "Online"
+    },
+    {
+        "word": "mission",
+        "definition": "Mission"
+    },
+    {
+        "word": "suppose",
+        "definition": "suppose"
+    },
+    {
+        "word": "chacun",
+        "definition": "everyone"
+    },
+    {
+        "word": "autour",
+        "definition": "around"
+    },
+    {
+        "word": "pote",
+        "definition": "pal"
+    },
+    {
+        "word": "grosse",
+        "definition": "big"
+    },
+    {
+        "word": "expliquer",
+        "definition": "explain"
+    },
+    {
+        "word": "arrivée",
+        "definition": "advent"
+    },
+    {
+        "word": "monter",
+        "definition": "up"
+    },
+    {
+        "word": "balle",
+        "definition": "ball"
+    },
+    {
+        "word": "selon",
+        "definition": "according"
+    },
+    {
+        "word": "photos",
+        "definition": "pictures"
+    },
+    {
+        "word": "contrôle",
+        "definition": "check"
+    },
+    {
+        "word": "prête",
+        "definition": "ready"
+    },
+    {
+        "word": "anglais",
+        "definition": "English"
+    },
+    {
+        "word": "sorti",
+        "definition": "out"
+    },
+    {
+        "word": "k",
+        "definition": "k"
+    },
+    {
+        "word": "bons",
+        "definition": "good"
+    },
+    {
+        "word": "disparu",
+        "definition": "disappeared"
+    },
+    {
+        "word": "tenir",
+        "definition": "hold"
+    },
+    {
+        "word": "simplement",
+        "definition": "simply"
+    },
+    {
+        "word": "quitter",
+        "definition": "leave"
+    },
+    {
+        "word": "envoie",
+        "definition": "sends"
+    },
+    {
+        "word": "paul",
+        "definition": "paul"
+    },
+    {
+        "word": "aimer",
+        "definition": "love"
+    },
+    {
+        "word": "voie",
+        "definition": "track"
+    },
+    {
+        "word": "paris",
+        "definition": "paris"
+    },
+    {
+        "word": "classe",
+        "definition": "classroom"
+    },
+    {
+        "word": "huit",
+        "definition": "eight"
+    },
+    {
+        "word": "offre",
+        "definition": "offers"
+    },
+    {
+        "word": "poste",
+        "definition": "post"
+    },
+    {
+        "word": "dangereux",
+        "definition": "Hazardous"
+    },
+    {
+        "word": "attaque",
+        "definition": "attack"
+    },
+    {
+        "word": "impression",
+        "definition": "Print"
+    },
+    {
+        "word": "folle",
+        "definition": "crazy"
+    },
+    {
+        "word": "michael",
+        "definition": "michael"
+    },
+    {
+        "word": "mange",
+        "definition": "eat"
+    },
+    {
+        "word": "bravo",
+        "definition": "Bravo"
+    },
+    {
+        "word": "arrière",
+        "definition": "rear"
+    },
+    {
+        "word": "amérique",
+        "definition": "america"
+    },
+    {
+        "word": "suivre",
+        "definition": "follow"
+    },
+    {
+        "word": "aille",
+        "definition": "go"
+    },
+    {
+        "word": "oublier",
+        "definition": "forget"
+    },
+    {
+        "word": "peuple",
+        "definition": "people"
+    },
+    {
+        "word": "baiser",
+        "definition": "kiss"
+    },
+    {
+        "word": "rencontré",
+        "definition": "met"
+    },
+    {
+        "word": "honte",
+        "definition": "shame"
+    },
+    {
+        "word": "connard",
+        "definition": "motherfucker"
+    },
+    {
+        "word": "trou",
+        "definition": "hole"
+    },
+    {
+        "word": "retourner",
+        "definition": "return"
+    },
+    {
+        "word": "chanson",
+        "definition": "track"
+    },
+    {
+        "word": "change",
+        "definition": "Exchange"
+    },
+    {
+        "word": "arrêté",
+        "definition": "arrested"
+    },
+    {
+        "word": "enfer",
+        "definition": "Hell"
+    },
+    {
+        "word": "écrire",
+        "definition": "write"
+    },
+    {
+        "word": "livres",
+        "definition": "books"
+    },
+    {
+        "word": "habitude",
+        "definition": "usual"
+    },
+    {
+        "word": "réponse",
+        "definition": "reply"
+    },
+    {
+        "word": "david",
+        "definition": "david"
+    },
+    {
+        "word": "lieutenant",
+        "definition": "Lieutenant"
+    },
+    {
+        "word": "savait",
+        "definition": "knew"
+    },
+    {
+        "word": "radio",
+        "definition": "radio"
+    },
+    {
+        "word": "tenez",
+        "definition": "hold"
+    },
+    {
+        "word": "bande",
+        "definition": "band"
+    },
+    {
+        "word": "bob",
+        "definition": "bob"
+    },
+    {
+        "word": "rend",
+        "definition": "makes"
+    },
+    {
+        "word": "compagnie",
+        "definition": "company"
+    },
+    {
+        "word": "connu",
+        "definition": "known"
+    },
+    {
+        "word": "secours",
+        "definition": "relief"
+    },
+    {
+        "word": "danse",
+        "definition": "dance"
+    },
+    {
+        "word": "met",
+        "definition": "puts"
+    },
+    {
+        "word": "vol",
+        "definition": "flight"
+    },
+    {
+        "word": "vit",
+        "definition": "lives"
+    },
+    {
+        "word": "conneries",
+        "definition": "bullshit"
+    },
+    {
+        "word": "aurez",
+        "definition": "will"
+    },
+    {
+        "word": "imagine",
+        "definition": "imagine"
+    },
+    {
+        "word": "boîte",
+        "definition": "box"
+    },
+    {
+        "word": "joué",
+        "definition": "played"
+    },
+    {
+        "word": "triste",
+        "definition": "sad"
+    },
+    {
+        "word": "sud",
+        "definition": "South"
+    },
+    {
+        "word": "lu",
+        "definition": "read"
+    },
+    {
+        "word": "tel",
+        "definition": "as"
+    },
+    {
+        "word": "merveilleux",
+        "definition": "wonderful"
+    },
+    {
+        "word": "pute",
+        "definition": "whore"
+    },
+    {
+        "word": "aie",
+        "definition": "have"
+    },
+    {
+        "word": "ressemble",
+        "definition": "looks"
+    },
+    {
+        "word": "coucher",
+        "definition": "Bedroom"
+    },
+    {
+        "word": "ennuis",
+        "definition": "trouble"
+    },
+    {
+        "word": "volé",
+        "definition": "stolen"
+    },
+    {
+        "word": "sortie",
+        "definition": "output"
+    },
+    {
+        "word": "devais",
+        "definition": "had"
+    },
+    {
+        "word": "combat",
+        "definition": "fight"
+    },
+    {
+        "word": "bouche",
+        "definition": "mouth"
+    },
+    {
+        "word": "certain",
+        "definition": "some"
+    },
+    {
+        "word": "visite",
+        "definition": "visit"
+    },
+    {
+        "word": "existe",
+        "definition": "are"
+    },
+    {
+        "word": "bête",
+        "definition": "beast"
+    },
+    {
+        "word": "retourne",
+        "definition": "returns"
+    },
+    {
+        "word": "approche",
+        "definition": "approach"
+    },
+    {
+        "word": "pourtant",
+        "definition": "however"
+    },
+    {
+        "word": "plusieurs",
+        "definition": "several"
+    },
+    {
+        "word": "rire",
+        "definition": "laugh"
+    },
+    {
+        "word": "but",
+        "definition": "goal"
+    },
+    {
+        "word": "sergent",
+        "definition": "Sergeant"
+    },
+    {
+        "word": "public",
+        "definition": "public"
+    }
+]
